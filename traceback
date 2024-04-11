@@ -1,0 +1,9 @@
+AttributeError  特定对象类型没有访问属性
+例如：
+li = (1, 2)
+li.append(3)
+
+li = None
+li.append(3)
+
+
